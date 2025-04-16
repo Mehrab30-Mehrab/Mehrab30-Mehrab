@@ -27,16 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marjan-mehrab&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjan-mehrab&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 🚀 Projects (Coming Soon...)
 
 > Stay tuned! I’m working on exciting projects in the fields of **cybersecurity**, **machine learning**, and more.
