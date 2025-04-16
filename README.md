@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Mehrab Morshed Marjan 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ethical+Hacking+%E2%9A%A1+Machine+Learning+%F0%9F%94%A1;C+Language+%7C+Learning+to+code+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF474C&center=true&vCenter=true&width=435&lines=Hi+I'm+Mehrab+Morshed+Marjan!;Welcome+to+my+GitHub+Profile!+❤" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -48,7 +46,6 @@
 
 ---
 
-<!-- profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Taskintamim&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
