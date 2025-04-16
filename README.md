@@ -1,20 +1,20 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi,+I’m+Mehrab+Morshed+Marjan;Ethical+Hacking+%26+Machine+Learning+Enthusiast;CSE+Student+%7C+East+West+University;Always+learning+%F0%9F%92%AA+Always+exploring!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Mehrab+Morshed;Ethical+Hacking+%26+Machine+Learning+Enthusiast;CSE+Student+%7C+East+West+University;Always+learning+💪+Always+exploring+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  🔐 Ethical Hacking Learner | 🎓 CSE Student @ East West University | 🤖 ML Explorer
+  🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student @ EWU
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🏫 Enrolled in **CSE Department @ East West University**
-- 👀 Interested in **Ethical Hacking & Machine Learning**
-- 🌱 Currently learning **C Programming Language**
-- 💡 Passionate about cybersecurity, coding, and building future-ready tech
+- 🎓 I'm currently a **CSE student** at **East West University**
+- 🔐 I'm interested in **Ethical Hacking** and **Machine Learning**
+- 💻 Currently learning **C Programming Language**
+- 🌱 Passionate about tech, security, and future innovations
 - 📬 University Mail: `2025-1-60-142@std.ewubd.edu`
 
 ---
@@ -22,14 +22,14 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,c,linux,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,linux,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Projects (Coming Soon...)
 
-> Stay tuned! I'm working on exciting projects in the fields of **cybersecurity**, **machine learning**, and more.
+> I’m working on exciting projects related to **cybersecurity**, **AI**, and **programming practice** — stay tuned!
 
 ---
 
@@ -42,9 +42,9 @@
 
 ---
 
-<!-- Fancy Footer Divider -->
+<!-- Footer Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 
 <p align="center">
-  ✨ Let's connect and grow together! 🚀
+  ✨ Let’s build, explore, and grow together! 🚀
 </p>
