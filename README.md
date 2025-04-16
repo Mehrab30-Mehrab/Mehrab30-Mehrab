@@ -1,8 +1,54 @@
-- 👋 Hi, I’m Mehrab Morshed Marjan
-- 👀 I’m interested in Ethical Hacking & Machiene Learning.
-- 🌱 I’m currently learning C language...
-- 🌱I'm currectly enrolled in CSE Department of East West University
-<!---
-Mehrab30-Mehrab/Mehrab30-Mehrab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi, I'm Mehrab Morshed Marjan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ethical+Hacking+%E2%9A%A1+Machine+Learning+%F0%9F%94%A1;C+Language+%7C+Learning+to+code+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 👨‍🎓 Pursuing a *Bachelor’s in Computer Science & Engineering* at East West University  
+- 🔒 Interested in *Ethical Hacking* and *Machine Learning*  
+- 💻 Currently learning *C programming*  
+- 🌱 Always exploring, building, and sharpening my skills  
+
+---
+
+## 🧰 Tech Toolbox
+
+### Languages & Frameworks  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taskintamim&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taskintamim&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 📫 Contact Me  
+📧 Email: [2025-1-60-142@std.ewubd.edu](mailto:2025-1-60-142@std.ewubd.edu)  
+🔗 LinkedIn: [linkedin.com/in/maarjaan-morshed-919445237](https://www.linkedin.com/in/maarjaan-morshed-919445237/)
+
+---
+
+<!-- profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Taskintamim&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
