@@ -16,7 +16,7 @@
 - 💻 Currently learning **C Programming Language**
 - 🌱 Passionate about tech, security, and future innovations
 - 📬 University Mail: `2025-1-60-142@std.ewubd.edu`
-
+- ⚽ **Hala Madrid**
 ---
 
 ## 🧰 Tech Toolbox
