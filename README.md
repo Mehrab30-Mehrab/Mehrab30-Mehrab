@@ -22,8 +22,9 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,java,php,rust,bash,linux,git,github,vscode,atom,codeblocks,nmap,wireshark,burpsuite,metasploit,postman" />
 </p>
+
 
 ---
 
