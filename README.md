@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a **CSE student** at **East West University**
+- 🎓 Pursuing bachelor's at **Computer Science Engineering** at **East West University**
 - 🔐 I'm interested in **Ethical Hacking** and **Machine Learning**
 - 💻 Currently learning **C Programming Language**
 - 🌱 Passionate about tech, security, and future innovations
