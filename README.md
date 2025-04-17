@@ -22,7 +22,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,java,php,rust,bash,linux,git,github,vscode,atom,codeblocks,nmap,wireshark,burpsuite,metasploit,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgresql,php,java,python,c,cpp,rust,go,bash,linux,git,github,vscode,atom,codeblocks,androidstudio,figma,docker,kubernetes,aws,azure,gcp,netlify,vercel,postman,firebase,sqlite,redux,jquery,numpy,pandas,matplotlib,scikit-learn,tensorflow,pytorch,opencv,seaborn,selenium,flutter,dart,swift,kotlin,wordpress,graphql,redis,nginx,nmap,wireshark,burpsuite,metasploit,zap" />
 </p>
 
 
