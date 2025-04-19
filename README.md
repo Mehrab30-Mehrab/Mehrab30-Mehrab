@@ -26,6 +26,28 @@
 </p>
 
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehrab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mehrab30-Mehrab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Featured Repositories
+
+- 🔢 [**My-1st-Repository**](https://github.com/Mehrab30-Mehrab/My-1st-Repository) – Convert seconds into hours, minutes, and seconds.
+- 🔣 [**My-2nd-Repository**](https://github.com/Mehrab30-Mehrab/My-2nd-Repository) – Find the number of distinct values among 4 integers.
+- 🔁 [**My-3rd-Repository**](https://github.com/Mehrab30-Mehrab/My-3rd-Repository) – Check if two integers are equal.
+- 🔍 [**My-4th-Repository**](https://github.com/Mehrab30-Mehrab/My-4th-Repository) – Check whether a number is even or odd.
+
+---
+
 ---
 
 ## 🚀 Projects (Coming Soon...)
