@@ -37,9 +37,10 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:2025-1-60-142@std.ewubd.edu"><img src="https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:2025-1-60-142@std.ewubd.edu"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/maarjaan-morshed-919445237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 ---
 
