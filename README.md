@@ -127,20 +127,20 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30_Mehrab&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30_Mehrab&layout=compact&theme=radical" alt="Top Langs" />
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab.Mehrab30_Mehrab)
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 ---
 
