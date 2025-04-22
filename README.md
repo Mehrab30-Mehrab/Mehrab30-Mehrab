@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student | East West University
+🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student @ East West University
 </p>
 
 ---
