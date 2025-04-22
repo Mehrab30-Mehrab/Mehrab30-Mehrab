@@ -1,7 +1,4 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="banner-gif">
-</p>
+
 
 <!-- Animated Typing Header -->
 <h1 align="center">
@@ -131,15 +128,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30_Mehrab&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30_Mehrab&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab&layout=compact&theme=radical" alt="Top Langs" />
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab.Mehrab30_Mehrab)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mehrab.Mehrab)
 
 </p>
 
 ---
+<!-- 🔥 GitHub Streak Section -->
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mehrab&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 
 ---
