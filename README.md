@@ -124,37 +124,6 @@
 
 
 
-### ⚙️ Backend & DevOps
-<p align="center">
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=light" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=light" /></a>
-</p>
-
-### 🛡️ Security & Hacking
-<p align="center">
-  <a href="https://nmap.org/"><img src="https://skillicons.dev/icons?i=nmap&theme=light" /></a>
-  <a href="https://www.wireshark.org/"><img src="https://skillicons.dev/icons?i=wireshark&theme=light" /></a>
-  <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://skillicons.dev/icons?i=metasploit&theme=light" /></a>
-</p>
-
----
-
-## 🧪 Beginner vs Advanced Stack
-
-### 🟢 Beginner Stack
-```bash
-Languages: C, Python, HTML, CSS, JS
-Tools: Git, VS Code, CodeBlocks
-```
-
-### 🔴 Advanced Stack
-```bash
-Frameworks: React, Node.js, TensorFlow, PyTorch
-Tools: Docker, Wireshark, Nmap, Metasploit
-```
 
 ---
 
