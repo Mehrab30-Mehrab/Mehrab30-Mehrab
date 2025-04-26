@@ -132,7 +132,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab&layout=compact&theme=radical" alt="Top Langs" />
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mehrab.Mehrab)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab)
 
 </p>
 
