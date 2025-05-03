@@ -175,14 +175,8 @@
   <a href="https://www.linkedin.com/in/maarjaan-morshed-919445237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-
-<a href="https://discordapp.com/users/mehrab080804" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=5865F2&center=true&vCenter=true&width=200&lines=Discord" alt="Discord" />
-</a>
-
-<a href="https://wa.me/+8801752504847" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=25D366&center=true&vCenter=true&width=200&lines=WhatsApp" alt="WhatsApp" />
-</a>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mehrab080804)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01752504847)
 
 
 ---
