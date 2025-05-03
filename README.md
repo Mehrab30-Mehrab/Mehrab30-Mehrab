@@ -138,15 +138,18 @@
 </p>
 
 ---
-<!-- 🔥 GitHub Streak Section -->
-## 🔥 GitHub Contribution Streak
+<!-- Animated Header Section -->
+<h2 style="text-align: center; font-size: 2em; animation: fadeIn 3s ease-in-out; color: #ff6347;">
+  🔥 GitHub Contribution Streak
+</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mehrab&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mehrab&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
+<!-- CSS for animation -->
 
----
+
 
 ## 🌟 Featured C Projects
 
