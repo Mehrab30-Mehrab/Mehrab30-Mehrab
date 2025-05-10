@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student | 🏫 East West University
-</p>
+<b>🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student | 🏫 East West University
+</b></p>
 
 ---
 
