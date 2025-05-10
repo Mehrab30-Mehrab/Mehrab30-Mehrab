@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student @ East West University
+🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student | 🏫 East West University
 </p>
 
 ---
@@ -74,13 +74,6 @@
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Top Languages"
-<p/>
----
 
 ## 🌟 Highlighted C Projects
 
