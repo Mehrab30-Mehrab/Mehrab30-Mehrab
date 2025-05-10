@@ -75,32 +75,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
 </p>
 
-## 1. Contribution Streak Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-## 2. GitHub Stats Card
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mehrab&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-## 3. Top Languages Card
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
 ---
 
 ## 🌟 Highlighted C Projects
