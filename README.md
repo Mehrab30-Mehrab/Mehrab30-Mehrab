@@ -78,6 +78,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
 </p>
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌟 Highlighted C Projects
 
 
