@@ -62,14 +62,17 @@
 
 
 ---
+## 📊 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab&theme=radical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph&count_private=true&role=OWNER,COLLABORATOR" alt="stat graph" width="100%" >
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&cache_bust=1" alt="Mehrab's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_bust=1" alt="Top Languages" />
-  <br />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_bust=1" alt="Top Languages" />
+<br />
   <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Streak" />
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
