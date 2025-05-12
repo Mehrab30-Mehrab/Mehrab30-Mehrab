@@ -66,7 +66,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=radical&area=true&hide_border=false&custom_title=🔥%20Mehrab's%20Contribution%20Graph%20-%20Radical%20Mode&line=FF0000&point=FFFFFF&color=FFA500&bg_color=0d1117&radius=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=radical&area=true&hide_border=false&custom_title=🔥%20Mehrab's%20Contribution%20Graph%20-%20Radical%20Mode&line=FF21A3&point=FDD835&color=00FFFF&bg_color=0d1117&radius=8"
     alt="Mehrab's Activity Graph"
     width="95%"
   />
