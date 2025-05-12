@@ -84,9 +84,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
   <br />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br />
+  <h2 align="center">
+  ⚡ My GitHub Streak
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehrab30-Mehrab&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&fire=DD2727&ring=FF7B00" alt="GitHub Streak" />
+</p>
 
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
