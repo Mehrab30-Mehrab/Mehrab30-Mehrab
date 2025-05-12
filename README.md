@@ -64,17 +64,31 @@
 ---
 ## 📊 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab&theme=radical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph&count_private=true&role=OWNER,COLLABORATOR" alt="stat graph" width="100%" >
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=radical&area=true&hide_border=false&custom_title=🔥%20Mehrab's%20Contribution%20Graph%20-%20Radical%20Mode&line=FF0000&point=FFFFFF&color=FFA500&bg_color=0d1117&radius=8"
+    alt="Mehrab's Activity Graph"
+    width="95%"
+  />
+</p>
+
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&cache_bust=1" alt="Mehrab's GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&cache_seconds=86400" alt="Mehrab's GitHub Stats" />
   <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_bust=1" alt="Top Languages" />
-<br />
-  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
   <br />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br />
+
+  <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
 </p>
 
