@@ -80,7 +80,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&cache_seconds=86400" alt="Mehrab's GitHub Stats" />
   <br />
 
-  <!-- Top Languages -->
+   <h2 align="center">
+     ✨ My Top Languages
+</h2>
+<!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
   <br />
 
