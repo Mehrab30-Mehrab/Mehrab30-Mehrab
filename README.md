@@ -83,7 +83,8 @@
    <h2 align="center">
      ✨ My Top Languages
 </h2>
-<!-- Top Languages -->
+<p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
   <br />
 
