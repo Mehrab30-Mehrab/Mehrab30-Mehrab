@@ -93,7 +93,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Highlighted C Projects
 
