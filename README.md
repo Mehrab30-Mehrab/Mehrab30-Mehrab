@@ -4,22 +4,22 @@
 </h1>
 
 <p align="center">
-<b>🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student | 🏫 East West University
-</b></p>
+<b>🚀 Frontend Developer | 🔐 Ethical Hacking | 🤖 Machine Learning | 🎓 CSE Student | 🏫 East West University</b>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 CSE student at **East West University**
-- 🔐 Interested in **Ethical Hacking** and **AI/ML**
-- 💻 Currently learning **C Language**
-- 🧠 I love solving problems & exploring new tech
-- 📫 Email: `2025-1-60-142@std.ewubd.edu`
+- 🎓 CSE student at **East West University**  
+- 🔐 Interested in **Ethical Hacking** and **AI/ML**  
+- 💻 Currently learning the **C programming language**  
+- 🧠 I enjoy problem-solving and exploring new technologies  
+- 📫 Reach me at: [2025-1-60-142@std.ewubd.edu](mailto:2025-1-60-142@std.ewubd.edu)
 
 ---
 
-## 🧰 My Tech Stack
+<h2 align="center">🧰 My Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -60,9 +60,9 @@
   </tr>
 </table>
 
-
 ---
-## 📊 GitHub Activity Graph
+
+<h2 align="center">📊 GitHub Activity Graph</h2>
 
 <p align="center">
   <img 
@@ -72,56 +72,85 @@
   />
 </p>
 
+---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&cache_seconds=86400" alt="Mehrab's GitHub Stats" />
-  <br />
+</p>
 
-   <h2 align="center">
-     ✨ My Top Languages
-</h2>
+<h2 align="center">✨ My Top Languages</h2>
+
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-  <br />
+</p>
 
-  <h2 align="center">
-  ⚡ My GitHub Streak
-</h2>
-<p align="center">
-<!-- My GitHub Streak -->
+<h2 align="center">⚡ My GitHub Streak</h2>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehrab30-Mehrab&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&fire=DD2727&ring=FF7B00" alt="GitHub Streak" />
 </p>
 
-  <!-- Visitor Badge -->
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab" alt="Visitor Badge" />
 </p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-## 🌟 Highlighted C Projects
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-
-| Repository | Description | Preview |
-|------------|-------------|---------|
-| [My-1st-Repository](https://github.com/Mehrab30-Mehrab/My-1st-Repository) | Convert seconds into hours, minutes, and seconds. | int h = s / 3600; |
-| [My-2nd-Repository](https://github.com/Mehrab30-Mehrab/My-2nd-Repository) | Count distinct values among 4 integers. | if (a != b && b != c && ...) |
-| [My-3rd-Repository](https://github.com/Mehrab30-Mehrab/My-3rd-Repository) | Check if two numbers are equal. | if (a == b) |
-| [My-4th-Repository](https://github.com/Mehrab30-Mehrab/My-4th-Repository) | Determine if a number is even or odd. | if (n % 2 == 0) |
-| [My-5th-Repository](https://github.com/Mehrab30-Mehrab/My-5th-Repository) | Leap year checker. | if (year % 4 == 0 && ...) |
-| [My-6th-Repository](https://github.com/Mehrab30-Mehrab/My-6th-Repository) | Display +1/0/-1 based on m. | return (m > 0) ? 1 : (m < 0) ? -1 : 0; |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical" alt="GitHub Trophies" />
+</p>
 
 ---
 
+<h2 align="center">🌟 Highlighted C Projects</h2>
 
-## 🔗 Let's Connect
+<table align="center">
+  <tr>
+    <th>Repository</th>
+    <th>Description</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mehrab30-Mehrab/My-1st-Repository">My-1st-Repository</a></td>
+    <td>Convert seconds into hours, minutes, and seconds.</td>
+    <td><code>int h = s / 3600;</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mehrab30-Mehrab/My-2nd-Repository">My-2nd-Repository</a></td>
+    <td>Count distinct values among 4 integers.</td>
+    <td><code>if (a != b && b != c && ...)</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mehrab30-Mehrab/My-3rd-Repository">My-3rd-Repository</a></td>
+    <td>Check if two numbers are equal.</td>
+    <td><code>if (a == b)</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mehrab30-Mehrab/My-4th-Repository">My-4th-Repository</a></td>
+    <td>Determine if a number is even or odd.</td>
+    <td><code>if (n % 2 == 0)</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mehrab30-Mehrab/My-5th-Repository">My-5th-Repository</a></td>
+    <td>Leap year checker.</td>
+    <td><code>if (year % 4 == 0 && ...)</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mehrab30-Mehrab/My-6th-Repository">My-6th-Repository</a></td>
+    <td>Display +1/0/-1 based on m.</td>
+    <td><code>return (m > 0) ? 1 : (m < 0) ? -1 : 0;</code></td>
+  </tr>
+</table>
 
-<p align="left">
+---
+
+<h2 align="center">🔗 Let's Connect</h2>
+
+<p align="center">
   <a href="https://facebook.com/Mehrab.Morshed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/mehrab080804"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:2025-1-60-142@std.ewubd.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -138,3 +167,4 @@
   <b>✨ Thanks for visiting! Let’s build, break, and learn together. 🚀</b>
 </p>
 
+   
