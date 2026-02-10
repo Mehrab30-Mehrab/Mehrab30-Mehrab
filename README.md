@@ -97,48 +97,6 @@
 
 ---
 
-<h2 align="center">🌟 Highlighted C Programming Projects</h2>
-
-<table align="center">
-<tr>
-<th>Repository</th>
-<th>Description</th>
-<th>Core Logic</th>
-</tr>
-<tr>
-<td><a href="https://github.com/Mehrab30-Mehrab/My-1st-Repository">My-1st-Repository</a></td>
-<td>Convert seconds into hours, minutes, and seconds</td>
-<td><code>h = s / 3600;</code></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Mehrab30-Mehrab/My-2nd-Repository">My-2nd-Repository</a></td>
-<td>Count distinct values among integers</td>
-<td><code>a != b && b != c</code></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Mehrab30-Mehrab/My-3rd-Repository">My-3rd-Repository</a></td>
-<td>Equality check between two numbers</td>
-<td><code>if (a == b)</code></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Mehrab30-Mehrab/My-4th-Repository">My-4th-Repository</a></td>
-<td>Even or odd number detection</td>
-<td><code>n % 2</code></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Mehrab30-Mehrab/My-5th-Repository">My-5th-Repository</a></td>
-<td>Leap year checker</td>
-<td><code>year % 4 == 0</code></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Mehrab30-Mehrab/My-6th-Repository">My-6th-Repository</a></td>
-<td>Sign detection of a number</td>
-<td><code>(m &gt; 0) ? 1 : 0</code></td>
-</tr>
-</table>
-
----
-
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
