@@ -1,150 +1,209 @@
-<!-- ========================= -->
+<!-- ===================================================== -->
 <!-- 🌟 ANIMATED TYPING HEADER -->
-<!-- ========================= -->
+<!-- ===================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+%40+East+West+University;Aspiring+Cybersecurity+%26+Software+Engineer;Internship+Seeker+%7C+Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+@+East+West+University;Aspiring+Cybersecurity+%26+Software+Engineer;Internship+Focused+|+Building+Every+Day+🚀" />
 </h1>
 
 <p align="center">
-<b>💻 Software Development | 🔐 Cybersecurity (Roadmap Focused) | 🤖 AI Curious | 🎓 CSE Undergraduate</b>
+  <img src="https://img.shields.io/badge/CSE-Student-0A192F?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Roadmap-111827?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships-0f172a?style=for-the-badge&logo=linkedin&logoColor=blue"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-<!-- ================= -->
-<!-- 🧠 ABOUT ME -->
-<!-- ================= -->
+<!-- ===================================================== -->
+<!-- 👨‍💻 ABOUT ME -->
+<!-- ===================================================== -->
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 **BSc in Computer Science & Engineering (CSE)** — East West University  
-- 🎯 Actively preparing for **Software Engineering / Cybersecurity Internships**
-- 🔐 Strong interest in **Cybersecurity, Ethical Hacking & System Security**
-- 💻 Solid foundation in **C programming, OOP & problem solving**
-- 🧠 Love working with **logic, algorithms, and real-world projects**
-- 📫 Academic Email: **2025-1-60-142@std.ewubd.edu**
+- 🎓 BSc in Computer Science & Engineering — East West University  
+- 🎯 Actively seeking Software Engineering & Cybersecurity Internships  
+- 🔐 Passionate about Cybersecurity, Ethical Hacking & Secure Systems  
+- 💻 Strong foundation in C programming & Object-Oriented Programming  
+- 🧠 Focused on problem solving, algorithms & real-world applications  
+- 📫 2025-1-60-142@std.ewubd.edu  
 
-<!-- ================= -->
-<!-- 📌 AUTO TOC -->
-<!-- ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📑 TABLE OF CONTENTS -->
+<!-- ===================================================== -->
 
 ## 📑 Table of Contents
-- About Me  
-- Technical Skills  
-- Skill Progress  
-- Language Usage Chart  
-- Course-Based Repository Highlights  
-- Mini Project Showcase  
-- Cybersecurity Roadmap  
-- GitHub Stats  
-- Connect With Me  
+• Technical Skills  
+• Skill Progress  
+• Language Distribution  
+• Repository Structure  
+• Course-Based Highlights  
+• Mini Project Showcase  
+• Cybersecurity Roadmap  
+• GitHub Analytics  
+• Connect  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-<!-- ================= -->
-<!-- 🧰 TECH SKILLS -->
-<!-- ================= -->
+<!-- ===================================================== -->
+<!-- 🧰 TECHNICAL SKILLS -->
+<!-- ===================================================== -->
 
 <h2 align="center">🧰 Technical Skills</h2>
 
-**Languages**
-- C, C++, Python, JavaScript, TypeScript
+Languages:  
+C • C++ • Python • JavaScript • TypeScript  
 
-**Frontend**
-- HTML, CSS, React, Next.js, Tailwind CSS, Bootstrap
+Frontend:  
+HTML • CSS • React • Next.js • Tailwind • Bootstrap  
 
-**Tools & Platforms**
-- Git, GitHub, VS Code, Firebase, Postman, Vercel
+Tools:  
+Git • GitHub • VS Code • Postman • Firebase • Vercel  
 
-**Concepts**
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Operating System Basics  
-- Networking Fundamentals  
+Core Concepts:  
+Data Structures • OOP • OS Basics • Networking Fundamentals  
 
-<!-- ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
 <!-- 📊 SKILL PROGRESS -->
-<!-- ================= -->
+<!-- ===================================================== -->
 
 <h2 align="center">📊 Skill Progress</h2>
 
 C Programming          ██████████████░░ 85%  
 Data Structures        ███████████░░░░ 70%  
 JavaScript             ██████████░░░░░ 65%  
+Python                 ████████░░░░░░░ 60%  
 React                  ████████░░░░░░░ 55%  
 Cybersecurity Basics   ███████░░░░░░░░ 50%  
-Python                 ████████░░░░░░░ 60%  
 
-<!-- ================= -->
-<!-- 📈 LANGUAGE USAGE -->
-<!-- ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-<h2 align="center">📈 Language Usage</h2>
+<!-- ===================================================== -->
+<!-- 📈 LANGUAGE DISTRIBUTION -->
+<!-- ===================================================== -->
+
+<h2 align="center">📈 Language Distribution</h2>
+
+C               ███████████████░░ 40%  
+JavaScript      ██████████░░░░░░░ 25%  
+Python          ████████░░░░░░░░░ 15%  
+C++             ██████░░░░░░░░░░░ 10%  
+Other           ████░░░░░░░░░░░░░ 10%  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical" />
 </p>
 
-<!-- ================= -->
-<!-- 📚 COURSE REPOS -->
-<!-- ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
 
-<h2 align="center">📚 Course-Based Repository Highlights</h2>
+<!-- ===================================================== -->
+<!-- 📂 REPOSITORY STRUCTURE -->
+<!-- ===================================================== -->
 
-**CSE103 – Structured Programming (C)**
-- Array operations
-- String manipulation
-- Recursion problems
-- File handling
-- Mini terminal-based projects
+<h2 align="center">📂 Internship-Ready Repository Structure</h2>
 
-**CSE110 – Object Oriented Programming**
-- Classes & objects
-- Method overloading
-- Encapsulation & inheritance
-- Java problem sets
+Recommended Naming:
 
-**CSE106 – Discrete Mathematics**
-- Logic & proofs
-- Relations & functions
-- Graph theory basics
+cse103-structured-programming-c  
+cse110-object-oriented-programming-java  
+data-structures-and-algorithms-c  
+cybersecurity-learning-labs  
+frontend-react-projects  
 
-<!-- ================= -->
-<!-- 🧪 MINI PROJECTS -->
-<!-- ================= -->
+Ideal Structure:
 
-<h2 align="center">🧪 Mini Project Showcase</h2>
+📦 repository-name  
+ ┣ 📂 src  
+ ┃ ┣ 📂 arrays  
+ ┃ ┣ 📂 strings  
+ ┃ ┣ 📂 recursion  
+ ┃ ┗ 📜 main.c / Main.java  
+ ┣ 📂 screenshots  
+ ┣ 📜 README.md  
+ ┗ 📜 output.txt  
 
-- 🕵️ **Stealth Runner** – Terminal-based C game
-- 🧮 **Scientific Calculator** – C with math & UI styling
-- 💰 **Compound Interest Calculator** – Java
-- 🔢 **Array Utility Toolkit** – Searching, sorting, reversing
-- 🌐 **Frontend Practice Apps** – React + Tailwind
+✔ Clean  
+✔ Organized  
+✔ Recruiter Friendly  
 
-(📸 Output screenshots included in individual repos)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-<!-- ================= -->
+<!-- ===================================================== -->
+<!-- 📚 COURSE HIGHLIGHTS -->
+<!-- ===================================================== -->
+
+<h2 align="center">📚 Course-Based Highlights</h2>
+
+CSE103 – Structured Programming  
+• Arrays, Strings, Recursion  
+• File Handling  
+• Terminal-based Mini Projects  
+
+CSE110 – Object Oriented Programming  
+• Classes & Objects  
+• Inheritance & Encapsulation  
+• Method Overloading  
+• Java Problem Solving  
+
+CSE106 – Discrete Mathematics  
+• Logic & Proof Techniques  
+• Relations & Functions  
+• Graph Fundamentals  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 🧪 MINI PROJECT SHOWCASE -->
+<!-- ===================================================== -->
+
+<h2 align="center">🧪 Featured Projects</h2>
+
+🕵️ Stealth Runner  
+Terminal-based C stealth game with logic-driven mechanics  
+
+🧮 Scientific Calculator  
+Advanced C calculator using math libraries  
+
+💰 Compound Interest Calculator  
+Java OOP-based financial calculator  
+
+🔢 Array Utility Toolkit  
+Searching, Sorting & Reverse system  
+
+🌐 Frontend UI Projects  
+Modern React + Tailwind responsive apps  
+
+(Screenshots available inside each repository)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
 <!-- 🔐 CYBER ROADMAP -->
-<!-- ================= -->
+<!-- ===================================================== -->
 
-<h2 align="center">🔐 Cybersecurity Learning Roadmap</h2>
+<h2 align="center">🔐 Cybersecurity Roadmap</h2>
 
-✔ Networking Fundamentals (TCP/IP, OSI)  
-✔ Linux Basics & Command Line  
-✔ C Programming for low-level understanding  
-✔ Web fundamentals (HTTP, cookies, sessions)  
+✔ Networking (TCP/IP, OSI Model)  
+✔ Linux & Bash Basics  
+✔ C for Low-Level Memory Understanding  
+✔ Web Fundamentals  
+
 ⬜ OWASP Top 10  
 ⬜ SQL Injection & XSS  
-⬜ TryHackMe / Hack The Box labs  
+⬜ TryHackMe / HackTheBox Labs  
 ⬜ Basic Cryptography  
-⬜ Capture The Flag (CTF) challenges  
+⬜ Capture The Flag (CTF)  
 
-<!-- ================= -->
-<!-- 📊 GITHUB STATS -->
-<!-- ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<!-- ===================================================== -->
+<!-- 📊 GITHUB ANALYTICS -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=radical&area=true" />
@@ -158,27 +217,249 @@ Python                 ████████░░░░░░░ 60%
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehrab30-Mehrab&theme=radical" />
 </p>
 
-<!-- ================= -->
-<!-- 🏆 TROPHIES -->
-<!-- ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical&margin-w=15" />
-</p>
-
-<!-- ================= -->
+<!-- ===================================================== -->
 <!-- 🔗 CONNECT -->
-<!-- ================= -->
+<!-- ===================================================== -->
 
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-<a href="https://facebook.com/Mehrab.Morshed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/mehrab080804"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/maarjaan-morshed-919445237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:2025-1-60-142@std.ewubd.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://facebook.com/Mehrab.Morshed"><img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/mehrab080804"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="<!-- ===================================================== -->
+<!-- 🌟 ANIMATED TYPING HEADER -->
+<!-- ===================================================== -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+@+East+West+University;Aspiring+Cybersecurity+%26+Software+Engineer;Internship+Focused+|+Building+Every+Day+🚀" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE-Student-0A192F?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Roadmap-111827?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships-0f172a?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 👨‍💻 ABOUT ME -->
+<!-- ===================================================== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+- 🎓 BSc in Computer Science & Engineering — East West University  
+- 🎯 Actively seeking Software Engineering & Cybersecurity Internships  
+- 🔐 Passionate about Cybersecurity, Ethical Hacking & Secure Systems  
+- 💻 Strong foundation in C programming & Object-Oriented Programming  
+- 🧠 Focused on problem solving, algorithms & real-world applications  
+- 📫 2025-1-60-142@std.ewubd.edu  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📑 TABLE OF CONTENTS -->
+<!-- ===================================================== -->
+
+## 📑 Table of Contents
+• Technical Skills  
+• Skill Progress  
+• Language Distribution  
+• Repository Structure  
+• Course-Based Highlights  
+• Mini Project Showcase  
+• Cybersecurity Roadmap  
+• GitHub Analytics  
+• Connect  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 🧰 TECHNICAL SKILLS -->
+<!-- ===================================================== -->
+
+<h2 align="center">🧰 Technical Skills</h2>
+
+Languages:  
+C • C++ • Python • JavaScript • TypeScript  
+
+Frontend:  
+HTML • CSS • React • Next.js • Tailwind • Bootstrap  
+
+Tools:  
+Git • GitHub • VS Code • Postman • Firebase • Vercel  
+
+Core Concepts:  
+Data Structures • OOP • OS Basics • Networking Fundamentals  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📊 SKILL PROGRESS -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 Skill Progress</h2>
+
+C Programming          ██████████████░░ 85%  
+Data Structures        ███████████░░░░ 70%  
+JavaScript             ██████████░░░░░ 65%  
+Python                 ████████░░░░░░░ 60%  
+React                  ████████░░░░░░░ 55%  
+Cybersecurity Basics   ███████░░░░░░░░ 50%  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📈 LANGUAGE DISTRIBUTION -->
+<!-- ===================================================== -->
+
+<h2 align="center">📈 Language Distribution</h2>
+
+C               ███████████████░░ 40%  
+JavaScript      ██████████░░░░░░░ 25%  
+Python          ████████░░░░░░░░░ 15%  
+C++             ██████░░░░░░░░░░░ 10%  
+Other           ████░░░░░░░░░░░░░ 10%  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📂 REPOSITORY STRUCTURE -->
+<!-- ===================================================== -->
+
+<h2 align="center">📂 Internship-Ready Repository Structure</h2>
+
+Recommended Naming:
+
+cse103-structured-programming-c  
+cse110-object-oriented-programming-java  
+data-structures-and-algorithms-c  
+cybersecurity-learning-labs  
+frontend-react-projects  
+
+Ideal Structure:
+
+📦 repository-name  
+ ┣ 📂 src  
+ ┃ ┣ 📂 arrays  
+ ┃ ┣ 📂 strings  
+ ┃ ┣ 📂 recursion  
+ ┃ ┗ 📜 main.c / Main.java  
+ ┣ 📂 screenshots  
+ ┣ 📜 README.md  
+ ┗ 📜 output.txt  
+
+✔ Clean  
+✔ Organized  
+✔ Recruiter Friendly  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📚 COURSE HIGHLIGHTS -->
+<!-- ===================================================== -->
+
+<h2 align="center">📚 Course-Based Highlights</h2>
+
+CSE103 – Structured Programming  
+• Arrays, Strings, Recursion  
+• File Handling  
+• Terminal-based Mini Projects  
+
+CSE110 – Object Oriented Programming  
+• Classes & Objects  
+• Inheritance & Encapsulation  
+• Method Overloading  
+• Java Problem Solving  
+
+CSE106 – Discrete Mathematics  
+• Logic & Proof Techniques  
+• Relations & Functions  
+• Graph Fundamentals  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 🧪 MINI PROJECT SHOWCASE -->
+<!-- ===================================================== -->
+
+<h2 align="center">🧪 Featured Projects</h2>
+
+🕵️ Stealth Runner  
+Terminal-based C stealth game with logic-driven mechanics  
+
+🧮 Scientific Calculator  
+Advanced C calculator using math libraries  
+
+💰 Compound Interest Calculator  
+Java OOP-based financial calculator  
+
+🔢 Array Utility Toolkit  
+Searching, Sorting & Reverse system  
+
+🌐 Frontend UI Projects  
+Modern React + Tailwind responsive apps  
+
+(Screenshots available inside each repository)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 🔐 CYBER ROADMAP -->
+<!-- ===================================================== -->
+
+<h2 align="center">🔐 Cybersecurity Roadmap</h2>
+
+✔ Networking (TCP/IP, OSI Model)  
+✔ Linux & Bash Basics  
+✔ C for Low-Level Memory Understanding  
+✔ Web Fundamentals  
+
+⬜ OWASP Top 10  
+⬜ SQL Injection & XSS  
+⬜ TryHackMe / HackTheBox Labs  
+⬜ Basic Cryptography  
+⬜ Capture The Flag (CTF)  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 📊 GITHUB ANALYTICS -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=radical&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehrab30-Mehrab&theme=radical" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+<!-- ===================================================== -->
+<!-- 🔗 CONNECT -->
+<!-- ===================================================== -->
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+<a href="https://facebook.com/Mehrab.Morshed"><img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/mehrab080804"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maarjaan-morshed-919445237/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:2025-1-60-142@std.ewubd.edu"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -186,5 +467,16 @@ Python                 ████████░░░░░░░ 60%
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
+"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:2025-1-60-142@std.ewubd.edu"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehrab30-Mehrab"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 </p>
