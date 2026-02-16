@@ -90,13 +90,11 @@
 <!-- 📈 CONTRIBUTION GRAPH -->
 <!-- ===================================== -->
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📊 3D Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=react-dark&hide_border=true" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
-
----
 
 <!-- ===================================== -->
 <!-- 🏆 TROPHIES -->
@@ -105,8 +103,11 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <a href="https://github.com/Mehrab30-Mehrab">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=algolia&margin-w=15" />
+  </a>
 </p>
+
 
 ---
 
@@ -175,5 +176,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer&animation=fadeIn"/>
 </p>
+
 
 
