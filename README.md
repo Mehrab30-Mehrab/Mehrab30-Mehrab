@@ -102,11 +102,7 @@
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <a href="https://github.com/Mehrab30-Mehrab?tab=achievements">
-    <img src="https://github.com/static/images/badges/pull-shark-default.png" width="80px" alt="Pull Shark">
-    <img src="https://github.com/static/images/badges/quickdraw-default.png" width="80px" alt="Quickdraw">
-    <img src="https://github.com/static/images/badges/yolo-default.png" width="80px" alt="YOLO">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=onedark&column=3" alt="github trophies" />
 </p>
 
 
