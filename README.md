@@ -100,13 +100,9 @@
 <!-- 🏆 TROPHIES -->
 <!-- ===================================== -->
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <a href="https://github.com/Mehrab30-Mehrab">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=algolia&margin-w=15" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-achievements-widgets.js.org/api/raw?username=Mehrab30-Mehrab" alt="GitHub Achievements" />
+</div>
 
 
 ---
