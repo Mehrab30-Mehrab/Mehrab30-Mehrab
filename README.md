@@ -19,7 +19,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🎓 BSc in Computer Science & Engineering — East West University  
-- 🎯 Preparing for Software Engineering Internships  
+- 🎯 Actively preparing for Software Engineering Internships  
 - 💻 Strong foundation in C, Java & JavaScript  
 - 🧠 Passionate about Data Structures & Algorithms  
 - 🚀 Love building clean, structured projects  
@@ -51,15 +51,13 @@
 ---
 
 <!-- ===================================== -->
-<!-- 📊 MOST USED LANGUAGES (FIXED VERSION) -->
+<!-- 📊 MOST USED LANGUAGES -->
 <!-- ===================================== -->
 
 <h2 align="center">📊 Most Used Languages</h2>
 
 <p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" 
-/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -71,9 +69,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
-/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
@@ -85,9 +81,7 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-<img 
-  src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=true" 
-/>
+  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -99,9 +93,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=react-dark&hide_border=true" 
-/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehrab30-Mehrab&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -113,9 +105,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical&no-frame=true&margin-w=10" 
-/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -141,7 +131,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mehrab30-Mehrab/Mehrab30-Mehrab/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mehrab30-Mehrab/Mehrab30-Mehrab/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -185,9 +175,5 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer&animation=fadeIn"/>
 </p>
-
-
-
-
 
 
