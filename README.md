@@ -101,9 +101,7 @@
 <!-- ===================================== -->
 
 <h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=onedark&column=3" alt="github trophies" />
-</p>
+https://github-profile-trophy-tawny.vercel.app/?username=Mehrab30-Mehrab
 
 
 ---
