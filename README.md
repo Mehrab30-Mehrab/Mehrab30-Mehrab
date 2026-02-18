@@ -45,8 +45,10 @@
 
 ### 🛠 Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,postman,vercel,idea" />
 </p>
+
+
 
 ---
 
