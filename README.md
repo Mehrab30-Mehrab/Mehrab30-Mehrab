@@ -99,9 +99,9 @@ Modern responsive UI projects with clean component architecture
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+
+<p align="center"> <a href="https://github.com/sadman-11/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Mehrab30-Mehrab" alt="Mehrab30-Mehrab" /></a> </p>
+
 
 ---
 
