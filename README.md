@@ -3,11 +3,11 @@
 <!-- ===================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+%40+East+West+University;Aspiring+Software+Engineer;Internship+Seeker+%7C+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+%40+East+West+University;Aspiring+Software+Engineer;Building+Projects+%7C+Learning+Daily+🚀" />
 </h1>
 
 <p align="center">
-<b>💻 Software Development | 🚀 Problem Solving | 🎓 CSE Undergraduate</b>
+<b>💻 Software Engineering | 🚀 Problem Solving | 📊 Data Structures | 🎯 Internship Ready</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
@@ -19,13 +19,13 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🎓 BSc in Computer Science & Engineering — East West University  
-- 🎯 Actively preparing for Software Engineering Internships  
-- 💻 Strong foundation in C, Java & JavaScript  
-- 🧠 Passionate about Data Structures & Algorithms  
-- 🚀 Love building clean, structured projects  
+- 🧠 Focused on Data Structures, Algorithms & Software Design  
+- 💻 Strong foundation in C, Java, JavaScript  
+- 🌐 Frontend Development with React & Tailwind  
+- 🔍 Currently seeking **Software Engineering Internship Opportunities**  
 - 📫 2025-1-60-142@std.ewubd.edu  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+<br>
 
 <!-- ===================================== -->
 <!-- 🧰 TECH STACK -->
@@ -43,69 +43,30 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### 🛠 Tools & Platforms
+### ⚙️ Backend & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,postman,vercel,idea" />
-</p>
-
-
-
----
-
-<!-- ===================================== -->
-<!-- 📊 MOST USED LANGUAGES -->
-<!-- ===================================== -->
-
-<h2 align="center">📊 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,linux,vscode,idea,postman,vercel" />
 </p>
 
 ---
 
 <!-- ===================================== -->
-<!-- 📊 GITHUB STATS -->
+<!-- 📊 GITHUB ANALYTICS -->
 <!-- ===================================== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
----
-
-<!-- ===================================== -->
-<!-- 🔥 STREAK STATS -->
-<!-- ===================================== -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=true" />
 </p>
-
----
-
-<!-- ===================================== -->
-<!-- 📈 CONTRIBUTION GRAPH -->
-<!-- ===================================== -->
-
-<h2 align="center">📊 3D Contribution Graph</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-<!-- ===================================== -->
-<!-- 🏆 TROPHIES -->
-<!-- ===================================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="left"> <a href="https://github.com/sadman-11/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Mehrab30-Mehrab" alt="Mehrab30-Mehrab" /></a> </p>
-
-
 
 ---
 
@@ -115,11 +76,32 @@
 
 <h2 align="center">🧪 Featured Projects</h2>
 
-🕵️ Stealth Runner — Terminal-based C Game  
-🧮 Scientific Calculator — C Application  
-💰 Compound Interest Calculator — Java  
-🔢 Array Utility Toolkit — Java  
-🌐 React + Tailwind UI Projects  
+🔹 **Stealth Runner**  
+Terminal-based 2D C Game implementing structured programming & logic handling  
+
+🔹 **Scientific Calculator (C)**  
+Handles complex arithmetic operations with modular code design  
+
+🔹 **Compound Interest Calculator (Java)**  
+Object-oriented financial calculator with user input validation  
+
+🔹 **Array Utility Toolkit (Java)**  
+Sorting, searching & array manipulation algorithms  
+
+🔹 **React + Tailwind UI Projects**  
+Modern responsive UI projects with clean component architecture  
+
+---
+
+<!-- ===================================== -->
+<!-- 🏆 ACHIEVEMENTS -->
+<!-- ===================================== -->
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mehrab30-Mehrab&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -143,6 +125,14 @@
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/mehrab-morshed-919445237/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mehrab30-Mehrab">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://wa.me/8801752504847">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
@@ -155,15 +145,12 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mehrab-morshed-919445237/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:2025-1-60-142@std.ewubd.edu">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
@@ -174,6 +161,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer&animation=fadeIn"/>
 </p>
-
-
-
