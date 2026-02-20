@@ -69,6 +69,17 @@
 </p>
 
 ---
+<!-- ===================================== -->
+<!-- 📈 CONTRIBUTION GRAPH -->
+<!-- ===================================== -->
+
+<h2 align="center">📊 3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
 
 <!-- ===================================== -->
 <!-- 🧪 FEATURED PROJECTS -->
@@ -76,16 +87,16 @@
 
 <h2 align="center">🧪 Featured Projects</h2>
 
-🔹 **Stealth Runner**  
+🔹 **[Stealth Runner](https://github.com/Mehrab30-Mehrab/Stealth-Runner)**  
 Terminal-based 2D C Game implementing structured programming & logic handling  
 
-🔹 **Scientific Calculator (C)**  
-Handles complex arithmetic operations with modular code design  
+🔹 **[Scientific Calculator](https://github.com/Mehrab30-Mehrab/Scientific-Calculator)**  
+Modular C project handling complex arithmetic  
 
-🔹 **Compound Interest Calculator (Java)**  
-Object-oriented financial calculator with user input validation  
+🔹 **[Compound Interest Calculator](https://github.com/Mehrab30-Mehrab/Compound-Interest-Calculator)**  
+Object-oriented Java financial calculator  
 
-🔹 **Array Utility Toolkit (Java)**  
+🔹 **[Array Utility Toolkit](https://github.com/Mehrab30-Mehrab/Array-Utility-Toolkit)**  
 Sorting, searching & array manipulation algorithms  
 
 🔹 **React + Tailwind UI Projects**  
