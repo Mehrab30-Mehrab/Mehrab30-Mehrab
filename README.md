@@ -2,9 +2,6 @@
 <!-- 🚀 ANIMATED HEADER -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mehrab;Full+Stack+Developer;MERN+•+Python+•+Flutter;Building+Smooth+Digital+Experiences" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
