@@ -1,174 +1,102 @@
-<!-- ===================================== -->
-<!-- 🌟 ANIMATED HEADER -->
-<!-- ===================================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+%40+East+West+University;Aspiring+Software+Engineer;Building+Projects+%7C+Learning+Daily+🚀" />
-</h1>
+<!-- ===================================================== -->
+<!-- 🚀 ANIMATED HEADER -->
+<!-- ===================================================== -->
 
 <p align="center">
-<b>💻 Software Engineering | 🚀 Problem Solving | 📊 Data Structures | 🎯 Internship Ready</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mehrab;Full+Stack+Developer;MERN+•+Python+•+Flutter;Building+Smooth+Digital+Experiences" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-
-<!-- ===================================== -->
-<!-- 👨‍💻 ABOUT ME -->
-<!-- ===================================== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-- 🎓 BSc in Computer Science & Engineering — East West University  
-- 🧠 Focused on Data Structures, Algorithms & Software Design  
-- 💻 Strong foundation in C, Java, JavaScript  
-- 🌐 Frontend Development with React & Tailwind  
-- 🔍 Currently seeking **Software Engineering Internship Opportunities**  
-- 📫 2025-1-60-142@std.ewubd.edu  
-
-<br>
-
-<!-- ===================================== -->
-<!-- 🧰 TECH STACK -->
-<!-- ===================================== -->
-
-<h2 align="center">🧰 Tech Stack</h2>
-
-### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,linux,vscode,idea,postman,vercel" />
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 </p>
 
 ---
 
-<!-- ===================================== -->
-<!-- 📊 GITHUB ANALYTICS -->
-<!-- ===================================== -->
+# 👨‍💻 Mehrab  
 
-<h2 align="center">📊 GitHub Analytics</h2>
+### 🚀 Full Stack Developer | MERN • Python • Flutter  
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🧠 About Me  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=radical&hide_border=true" />
-</p>
+I’m a passionate full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
 
----
-<!-- ===================================== -->
-<!-- 📈 CONTRIBUTION GRAPH -->
-<!-- ===================================== -->
+From sleek UI designs to scalable backend APIs, I build digital products that feel **fast, intuitive, and enjoyable.**
 
-<h2 align="center">📊 3D Contribution Graph</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+- 🌍 Based in Bangladesh  
+- 🤝 Open to collaboration (Web & App Development)  
+- 💡 Always learning & building  
+- 🥷 Secret vigilante mode: ON  
 
 ---
 
-<!-- ===================================== -->
-<!-- 🧪 FEATURED PROJECTS -->
-<!-- ===================================== -->
-
-<h2 align="center">🧪 Featured Projects</h2>
-
-🔹 **[Stealth Runner](https://github.com/Mehrab30-Mehrab/Stealth-Runner)**  
-Terminal-based 2D C Game implementing structured programming & logic handling  
-
-🔹 **[Scientific Calculator](https://github.com/Mehrab30-Mehrab/Scientific-Calculator)**  
-Modular C project handling complex arithmetic  
-
-🔹 **[Compound Interest Calculator](https://github.com/Mehrab30-Mehrab/Compound-Interest-Calculator)**  
-Object-oriented Java financial calculator  
-
-🔹 **[Array Utility Toolkit](https://github.com/Mehrab30-Mehrab/Array-Utility-Toolkit)**  
-Sorting, searching & array manipulation algorithms  
-
-🔹 **React + Tailwind UI Projects**  
-Modern responsive UI projects with clean component architecture  
-
----
-
-<!-- ===================================== -->
-<!-- 🏆 ACHIEVEMENTS -->
-<!-- ===================================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-
-<p align="center"> <a href="https://github.com/sadman-11/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Mehrab30-Mehrab" alt="Mehrab30-Mehrab" /></a> </p>
-
-
----
-
-<!-- ===================================== -->
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<!-- ===================================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🌐 Connect With Me  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehrab30-Mehrab/Mehrab30-Mehrab/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/Mehrab30-Mehrab">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- ===================================== -->
-<!-- 🔗 CONNECT WITH ME -->
-<!-- ===================================== -->
+# 🛠️ Tech Stack  
 
-<h2 align="center">🔗 Connect With Me</h2>
-
+## 💻 Programming Languages
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mehrab-morshed-919445237/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mehrab30-Mehrab">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/8801752504847">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/Mehrab.Morshed">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/mehrab080804">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:2025-1-60-142@std.ewubd.edu">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,dart,c" />
 </p>
 
+## ⚙️ Frameworks & Libraries
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</p>
+
+## 🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+</p>
+
+## 🧰 Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+</p>
 
 ---
 
-<!-- ===================================== -->
-<!-- 🌊 ANIMATED FOOTER -->
-<!-- ===================================== -->
+# 📊 GitHub Analytics  
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer&animation=fadeIn"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab30-Mehrab&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab30-Mehrab&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mehrab30-Mehrab&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 3D Contribution Graph  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mehrab30-Mehrab&theme=tokyonight" />
+</p>
+
+---
+
+# ❤️ Support Me  
+
+<p align="center">
+  ⭐️ From <strong>Mehrab</strong> | Building with Passion & Precision
 </p>
