@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Mehrab+Morshed+Marjan;CSE+Student+%40+East+West+University;Aspiring+Software+Engineer;Building+Projects+%7C+Learning+Daily+🚀" />
 </h1>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
 <p align="center">
 <b>💻 Software Engineering | 🚀 Problem Solving | 📊 Data Structures | 🎯 Internship Ready</b>
